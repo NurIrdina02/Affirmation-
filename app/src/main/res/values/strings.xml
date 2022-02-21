@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Chalet'Su Terengganu.</string>
+    <string name="affirmation2">Dusun Bonda Resort.</string>
+    <string name="affirmation3">Perlis.</string>
+    <string name="affirmation4">Langkawi.</string>
+    <string name="affirmation5">Masjid Terapung Terengganu.</string>
+    <string name="affirmation6">Melaka.</string>
+    <string name="affirmation7">Pulau Pangkor.</string>
+    <string name="affirmation8">Pulau Perhentian.</string>
+    <string name="affirmation9">Gunung Baling.</string>
+    <string name="affirmation10">Singapura.</string>
+</resources>
